@@ -12,7 +12,8 @@ public class App {
         System.out.println("Task 1: ");
         final int a = 5;
         final int b = ScalarTypesAndRefs.inc(a);
-        System.out.printf(" %d %d\n", a, b);
+        System.out.println(" a = " + a);
+        System.out.println(" b = " + b);
     }
 
     public static void task2() {

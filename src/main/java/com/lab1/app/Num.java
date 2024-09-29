@@ -6,5 +6,4 @@ public class Num {
     public Num(int num) {
         n = num;
     }
-
-};
+}

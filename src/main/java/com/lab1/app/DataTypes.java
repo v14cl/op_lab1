@@ -3,7 +3,7 @@ import java.util.HashMap;
 
 public class DataTypes {
     public static HashMap<String, Integer> count_datatypes(Object[] arr) {
-        HashMap<String, Integer> hashmap = new HashMap<String, Integer>();
+        HashMap<String, Integer> hashmap = new HashMap<>();
         hashmap.put("Boolean", 0);
         hashmap.put("Integer", 0);
         hashmap.put("Float", 0);
